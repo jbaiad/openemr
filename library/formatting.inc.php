@@ -23,6 +23,7 @@ function oeFormatMoney($amount, $symbol = false): string
 }
 
 /**
+ * @param string $date
  * @param bool $showYear
  * @return string
  */
